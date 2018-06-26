@@ -1,0 +1,26 @@
+{
+  "name": "trackme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilipabc/nodejs_p1_v1.git"
+  },
+  "author": "Dilip Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilipabc/nodejs_p1_v1/issues"
+  },
+  "homepage": "https://github.com/dilipabc/nodejs_p1_v1#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "reload": "^1.1.1"
+  }
+}
